@@ -1,1 +1,1 @@
-my firat readme
+my first readme
